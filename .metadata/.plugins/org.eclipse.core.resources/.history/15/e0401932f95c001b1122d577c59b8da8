@@ -1,0 +1,14 @@
+
+public class Puppy {
+	int puppyAge;
+	String puppyName;
+	
+	public Puppy(String name) {
+		puppyName = name;
+	}
+	
+	public int getAge() {
+		return puppyAge;
+	}
+	
+}
